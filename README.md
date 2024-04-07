@@ -49,7 +49,7 @@ Obs.: A mesclagem foi utilizada por precisar unir dados em novas tabelas, como e
 
 - Então eu voltava e mesclava novas ideias;
 
-[Arquivo do projeto do desafio - azure company](./desafio_dio/azure_company/Desafio_Dio_Azure_Company.pbixDesafio_DIO.pbix)
+[Arquivo do projeto do desafio - azure company](./desafio_dio/azure_company/Desafio_Dio_Azure_Company.pbix)
 
 
 ![Relatório](./desafio_dio/azure_company/relatorio.png "Página do relatório no Power BI Desktop")
